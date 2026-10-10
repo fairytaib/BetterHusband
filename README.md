@@ -36,3 +36,4 @@ MMKV v3 braucht die New Architecture und einen Development Build – **Expo Go r
 - Premium-Schalter durch echten Kaufstatus ersetzen (z. B. RevenueCat), Token im Proxy prüfen
 - Ab SDK 54: `expo-file-system` → `expo-file-system/legacy` in `mediaService.ts`
 "# BetterHusband" 
+"# BetterHusband" 
